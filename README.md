@@ -15,3 +15,19 @@ This guide is a comprehensive walk-through of downloading both: https://teachers
 
 ### Mauve
 Mauve is a genome alignment viewer, and can be a super cool tool to compare similar genomes! You may have the opportunity to work with it during this course. You can download it here: https://darlinglab.org/mauve/mauve.html
+
+## During the course
+
+
+You will need the following lines of code for Pavian. 
+
+This line installs Pavian into your Rstudio
+```bash
+if (!require(remotes)) { install.packages("remotes") }
+remotes::install_github("fbreitwieser/pavian")
+```
+This line will open the Pavian interface
+```bash
+pavian::runApp(port=5000)
+```
+
