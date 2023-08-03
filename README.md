@@ -49,4 +49,6 @@ Try extracting reads from a different genus or a higher taxonomic order! Find a 
 Try blasting a portion of your genome on NCBI! Blasting the entire genome may take a while, but blasting different portions may yield some cool results. 
 
 ### If you finish pyani early...
+You can download some other NCBI genomes from NCBI and try those out in pyani! I downloaded a very small amount. Be careful - pyani can take a long time if you add too many. 
+
 There is some really neat R code that can transform your pyani output into a phylogentic tree, and where you can change the percent identity scale. 
