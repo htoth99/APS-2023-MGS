@@ -17,7 +17,15 @@ This guide is a comprehensive walk-through of downloading both: https://teachers
 Mauve is a genome alignment viewer, and can be a super cool tool to compare similar genomes! You may have the opportunity to work with it during this course. You can download it here: https://darlinglab.org/mauve/mauve.html
 
 ## During the course
+Here, you will find resources you may need during some of the steps or if you finish a step early!
 
+# If you finish Kraken early...
+Check out all the databases that Kraken offers: https://benlangmead.github.io/aws-indexes/k2
+Which database do you think we're using?
+What database do you think you would use if you ran Kraken?
+What would include in your custom database if you were to use Kraken with your own data?
+
+# Pavian
 
 You will need the following lines of code for Pavian. 
 
@@ -30,4 +38,14 @@ This line will open the Pavian interface
 ```bash
 pavian::runApp(port=5000)
 ```
+
+# If you finish Pavian early...
+Check out the table format of pavian! The Sankey diagrams are super cool, but there is a table version of all the data from Kraken. It is found under "Results Overview." 
+
+# If you finish extracting your reads early...
+Try extracting reads from a different genus or a higher taxonomic order! Find a different taxonomy ID from NCBI and run extract reads. Compare file sizes between your different outputs and see which has the most data.
+
+# If you finish metaSPAdes early...
+Try blasting a portion of your genome on NCBI! Blasting the entire genome may take a while, but blasting different portions may yield some cool results. 
+
 
