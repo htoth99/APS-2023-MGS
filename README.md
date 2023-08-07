@@ -52,3 +52,16 @@ Try blasting a portion of your genome on NCBI! Blasting the entire genome may ta
 You can download some other NCBI genomes from NCBI and try those out in pyani! I downloaded a very small amount. Be careful - pyani can take a long time if you add too many. 
 
 There is some really neat R code that can transform your pyani output into a phylogentic tree, and where you can change the percent identity scale. 
+
+## Programs used during the workshop
+You can find all of the programs we used here. You can read all about them at the links provided below.
+
+Kraken2 - https://github.com/DerrickWood/kraken2 and https://ccb.jhu.edu/software/kraken2/
+We use both kraken2 and Kraken tools. Kraken tools has the extract feature in it, which we utilized in our workshop. 
+
+Pavian - https://github.com/fbreitwieser/pavian
+
+SPAdes - https://github.com/ablab/spades
+We use the --meta argument to utilize SPAdes as a meta-genome assembler.
+
+Pyani - https://github.com/widdowquinn/pyani
