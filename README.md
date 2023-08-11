@@ -42,6 +42,14 @@ pavian::runApp(port=5000)
 ### If you finish Pavian early...
 Check out the table format of pavian! The Sankey diagrams are super cool, but there is a table version of all the data from Kraken. It is found under "Results Overview." 
 
+### Extract Reads
+We will need to install an envrionment to your terminal. Navigate to your programs directory within your home directory, and find the file labeled "all-prgms.yml" Click open in terminal and paste the following text.
+```bash
+conda env create -f all-prgms.yml
+conda activate all-pgrms
+conda lis
+```
+
 ### If you finish extracting your reads early...
 Try extracting reads from a different genus or a higher taxonomic order! Find a different taxonomy ID from NCBI and run extract reads. Compare file sizes between your different outputs and see which has the most data.
 
