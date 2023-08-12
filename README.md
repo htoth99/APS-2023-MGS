@@ -39,6 +39,8 @@ This line will open the Pavian interface
 pavian::runApp(port=5000)
 ```
 
+https://fbreitwieser.shinyapps.io/pavian/
+
 ### If you finish Pavian early...
 Check out the table format of pavian! The Sankey diagrams are super cool, but there is a table version of all the data from Kraken. It is found under "Results Overview." 
 
