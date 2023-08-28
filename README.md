@@ -1,3 +1,6 @@
+# Take the survey!
+I would truly appreciate if you could give us some feedback on the workshop. It only takes a few minutes. You can find the link here: https://forms.gle/EQcxdnHzaiKYEuXY7
+
 # APS-2023-MGS
 Welcome! If you've made it to this site, it means you're enrolled in the pre-meeting metagenomics workshop held at APS 2023. This page will serve as your one-stop shop for this workshop. Here, you will find links to download programs, lines of code that you will copy, and much more. 
 
